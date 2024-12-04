@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u5510\u8FDC\u54F2\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4EE3\u7801\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1942707-B414-4F1C-86EC-43BE09ABC894}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|c:\\users\\\u5510\u8FDC\u54F2\\desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4EE3\u7801\\consoleapp1\\consoleapp1tests\\leaderboardsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1942707-B414-4F1C-86EC-43BE09ABC894}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|solutionrelative:consoleapp1tests\\leaderboardsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B243C410-7C20-44A5-AFFA-CE2A58B4F1F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u5510\u8FDC\u54F2\\desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4EE3\u7801\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B243C410-7C20-44A5-AFFA-CE2A58B4F1F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaderboardSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u5510\u8FDC\u54F2\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4EE3\u7801\\ConsoleApp1\\ConsoleApp1Tests\\LeaderboardSystemTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\LeaderboardSystemTests.cs",
+              "ToolTip": "C:\\Users\\\u5510\u8FDC\u54F2\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4EE3\u7801\\ConsoleApp1\\ConsoleApp1Tests\\LeaderboardSystemTests.cs*",
+              "RelativeToolTip": "ConsoleApp1Tests\\LeaderboardSystemTests.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:24:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u5510\u8FDC\u54F2\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4EE3\u7801\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u5510\u8FDC\u54F2\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4EE3\u7801\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:37:00.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SBJhQBb46c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\唐远哲\\Desktop\\新建文件夹\\代码\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\唐远哲\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
